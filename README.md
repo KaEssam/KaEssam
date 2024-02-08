@@ -30,6 +30,18 @@
 
 ###
 
+<br clear="both">
+
+<h3 align="left">RapidFire:</h3>
+
+###
+
+<p align="left">🌱 I’m currently learning .NET stack<br><br>❓ Ask me about anything related to .NET stack and related technologies<br><br>⚡ Fun fact: I keep night shift swithed on at all times</p>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KaEssam&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaEssam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -39,13 +51,13 @@
 
 <br clear="both">
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
