@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning .NET stack<br><br>❓ Ask me about anything related to .NET stack and related technologies<br><br>⚡ Fun fact: I keep night shift swithed on at all times</p>
+<h5 align="left">🌱 I’m currently learning .NET stack<br><br>❓ Ask me about anything related to .NET stack and related technologies<br><br>⚡ Fun fact: I keep night shift swithed on at all times</h5>
 
 ###
 
