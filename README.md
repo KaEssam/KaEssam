@@ -44,7 +44,7 @@
 
 ###
 
-<h5 align="left">💡 I enjoy learning about new technologies and creating software solutions.<br><br>🌱 I’m currently learning .NET stack<br><br>❓ Ask me about anything related to .NET stack and related technologies<br><br>⚡ Fun fact: I keep night shift swithed on at all times</h5>
+<h5 align="left">💡 I enjoy learning about new technologies and creating software solutions.<br><br>🌱 I’m currently learning .NET stack<br><br>❓ Ask me about anything related to .NET stack and related technologies<br><br>⚡ Fun fact: I keep night shift swithed on at all times.</h5>
 
 ###
 
