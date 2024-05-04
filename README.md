@@ -12,6 +12,12 @@
   <img height="200" src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png"  />
 </div>
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KaEssam&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaEssam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
 ###
 
 <div align="center">
